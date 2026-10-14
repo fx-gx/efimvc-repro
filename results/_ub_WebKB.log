@@ -1,0 +1,13 @@
+rate=0.1: concat0 ACC=93.10 | concatmean ACC=94.46
+rate=0.2: concat0 ACC=91.88 | concatmean ACC=93.89
+rate=0.3: concat0 ACC=89.85 | concatmean ACC=93.60
+rate=0.4: concat0 ACC=86.57 | concatmean ACC=86.51
+rate=0.5: concat0 ACC=84.26 | concatmean ACC=84.91
+rate=0.6: concat0 ACC=83.02 | concatmean ACC=84.60
+rate=0.7: concat0 ACC=68.60 | concatmean ACC=83.24
+rate=0.8: concat0 ACC=57.63 | concatmean ACC=85.98
+rate=0.9: concat0 ACC=50.73 | concatmean ACC=93.31
+
+wrote results\upper_bound_WebKB.jsonl
+mean over 9 rates [concat0]: ACC=78.41  NMI=29.81  Purity=84.88  Fscore=77.58
+mean over 9 rates [concatmean]: ACC=88.94  NMI=42.72  Purity=88.94  Fscore=87.37

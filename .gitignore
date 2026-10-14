@@ -1,0 +1,33 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.iml
+
+# ===== Claude Code 本地设置 =====
+# settings*.json 含本机绝对路径与权限记录,不应公开
+.claude/settings.json
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# ===== 运行产物 =====
+save/
+log/
+_tmp/
+
+# ===== 数据集 =====
+# ~171 MB 的 .mat 立方体，可由 scripts/fetch_data.py 重新下载
+data/
+
+# ===== 第三方内容（不转发，README 给出原始链接）=====
+# 官方 MATLAB 实现，作者未声明许可证
+official_code/
+# 论文 PDF 提取的全文，受版权保护
+paper_text.txt
+*.pdf

@@ -1,0 +1,29 @@
+[proteinFold] 108 jobs to run (0 cells already done)
+  [proteinFold] 5/108 jobs done
+  [proteinFold] 10/108 jobs done
+  [proteinFold] 15/108 jobs done
+  [proteinFold] 20/108 jobs done
+  [proteinFold] 25/108 jobs done
+  [proteinFold] 30/108 jobs done
+  [proteinFold] 35/108 jobs done
+  [proteinFold] 40/108 jobs done
+  [proteinFold] 45/108 jobs done
+  [proteinFold] 50/108 jobs done
+  [proteinFold] 55/108 jobs done
+  [proteinFold] 60/108 jobs done
+  [proteinFold] 65/108 jobs done
+  [proteinFold] 70/108 jobs done
+  [proteinFold] 75/108 jobs done
+  [proteinFold] 80/108 jobs done
+  [proteinFold] 85/108 jobs done
+  [proteinFold] 90/108 jobs done
+  [proteinFold] 95/108 jobs done
+  [proteinFold] 100/108 jobs done
+  [proteinFold] 105/108 jobs done
+  [proteinFold] 108/108 jobs done
+
+[proteinFold] Table-2 style (mean over 9 rates of the per-rate grid best):
+   ACC       31.79
+   NMI       40.71
+   Purity    38.25
+   Fscore    18.56

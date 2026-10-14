@@ -1,0 +1,29 @@
+[WebKB] 108 jobs to run (0 cells already done)
+  [WebKB] 5/108 jobs done
+  [WebKB] 10/108 jobs done
+  [WebKB] 15/108 jobs done
+  [WebKB] 20/108 jobs done
+  [WebKB] 25/108 jobs done
+  [WebKB] 30/108 jobs done
+  [WebKB] 35/108 jobs done
+  [WebKB] 40/108 jobs done
+  [WebKB] 45/108 jobs done
+  [WebKB] 50/108 jobs done
+  [WebKB] 55/108 jobs done
+  [WebKB] 60/108 jobs done
+  [WebKB] 65/108 jobs done
+  [WebKB] 70/108 jobs done
+  [WebKB] 75/108 jobs done
+  [WebKB] 80/108 jobs done
+  [WebKB] 85/108 jobs done
+  [WebKB] 90/108 jobs done
+  [WebKB] 95/108 jobs done
+  [WebKB] 100/108 jobs done
+  [WebKB] 105/108 jobs done
+  [WebKB] 108/108 jobs done
+
+[WebKB] Table-2 style (mean over 9 rates of the per-rate grid best):
+   ACC       92.25
+   NMI       54.87
+   Purity    92.25
+   Fscore    89.19

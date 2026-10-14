@@ -1,0 +1,13 @@
+rate=0.1: concat0 ACC=31.64 | concatmean ACC=29.44
+rate=0.2: concat0 ACC=29.71 | concatmean ACC=29.29
+rate=0.3: concat0 ACC=28.88 | concatmean ACC=27.44
+rate=0.4: concat0 ACC=26.80 | concatmean ACC=26.66
+rate=0.5: concat0 ACC=25.72 | concatmean ACC=25.55
+rate=0.6: concat0 ACC=24.01 | concatmean ACC=25.30
+rate=0.7: concat0 ACC=21.83 | concatmean ACC=23.60
+rate=0.8: concat0 ACC=21.50 | concatmean ACC=22.44
+rate=0.9: concat0 ACC=21.87 | concatmean ACC=22.98
+
+wrote results\upper_bound_proteinFold.jsonl
+mean over 9 rates [concat0]: ACC=25.77  NMI=31.77  Purity=30.97  Fscore=13.05
+mean over 9 rates [concatmean]: ACC=25.85  NMI=33.01  Purity=31.27  Fscore=13.73

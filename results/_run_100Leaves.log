@@ -1,0 +1,9 @@
+[100Leaves] 9 jobs to run (54 cells already done)
+  [100Leaves] 5/9 jobs done
+  [100Leaves] 9/9 jobs done
+
+[100Leaves] Table-2 style (mean over 9 rates of the per-rate grid best):
+   ACC       71.11
+   NMI       82.94
+   Purity    72.63
+   Fscore    57.78

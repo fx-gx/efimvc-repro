@@ -1,0 +1,10 @@
+--- carry=False ---
+  beta= 0.001: ACC=24.47  iters=5    251s
+  beta=   0.1: ACC=23.34  iters=5    427s
+  beta=     1: ACC=25.68  iters=5    343s
+  beta=   100: ACC=24.67  iters=2    156s
+--- carry=True ---
+  beta= 0.001: ACC=24.47  iters=5    350s
+  beta=   0.1: ACC=25.32  iters=5    311s
+  beta=     1: ACC=24.28  iters=4    144s
+  beta=   100: ACC=25.26  iters=3    200s

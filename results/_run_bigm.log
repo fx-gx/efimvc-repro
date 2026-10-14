@@ -1,0 +1,11 @@
+[proteinFold] 18 jobs to run (0 cells already done)
+  [proteinFold] 5/18 jobs done
+  [proteinFold] 10/18 jobs done
+  [proteinFold] 15/18 jobs done
+  [proteinFold] 18/18 jobs done
+
+[proteinFold] Table-2 style (mean over 9 rates of the per-rate grid best):
+   ACC       24.20
+   NMI       31.03
+   Purity    29.21
+   Fscore    13.57

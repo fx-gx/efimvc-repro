@@ -1,0 +1,22 @@
+  rate 0.1: selected m=81 alpha=0.001 beta=0.001 (ACC=33.15)
+  rate 0.2: selected m=81 alpha=0.001 beta=1.0 (ACC=33.38)
+  rate 0.3: selected m=54 alpha=0.001 beta=0.001 (ACC=33.02)
+  rate 0.4: selected m=81 alpha=0.001 beta=1.0 (ACC=32.67)
+  rate 0.5: selected m=81 alpha=0.001 beta=0.001 (ACC=33.05)
+  rate 0.6: selected m=81 alpha=0.1 beta=0.001 (ACC=30.53)
+  rate 0.7: selected m=54 alpha=0.001 beta=0.001 (ACC=30.49)
+  rate 0.8: selected m=54 alpha=100.0 beta=0.1 (ACC=29.31)
+  rate 0.9: selected m=81 alpha=0.001 beta=100.0 (ACC=30.48)
+[proteinFold] ablation: 21 jobs (22 cells already done)
+  5/21 jobs
+  10/23 jobs
+  15/23 jobs
+  20/23 jobs
+  23/23 jobs
+
+[proteinFold] ablation (mean over rates of the per-rate grid best, %)
+variant          ACC       NMI    Purity    Fscore
+full           31.61     40.22     37.86     18.31
+lambda=0       31.81     40.68     38.60     18.46
+beta=0         30.93     40.16     37.82     17.83
+P=I            20.86     27.97     26.14      9.59

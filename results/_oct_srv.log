@@ -1,0 +1,11 @@
+warning: function D:\cc\EFIMVC\official_code\run.m shadows a core library function
+warning: called from
+    diag_server at line 4 column 3
+
+SRV iter=1 part1=52.790639 part2=245.252648 obj=53.281145
+SRV iter=2 part1=51.034679 part2=281.234259 obj=51.597148
+SRV iter=3 part1=50.040351 part2=301.183935 obj=50.642719
+SRV iter=4 part1=49.431434 part2=313.216139 obj=50.057866
+SRV iter=5 part1=49.028930 part2=321.114225 obj=49.671159
+SRV iter=6 part1=48.743841 part2=326.658120 obj=49.397157
+SAVED

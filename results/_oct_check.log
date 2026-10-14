@@ -1,0 +1,4 @@
+warning: function D:\cc\EFIMVC\official_code\run.m shadows a core library function
+warning: called from
+    check_proteinfold at line 13 column 3
+

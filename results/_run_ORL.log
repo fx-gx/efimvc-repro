@@ -1,0 +1,18 @@
+[ORL_mtv] 54 jobs to run (0 cells already done)
+  [ORL_mtv] 5/54 jobs done
+  [ORL_mtv] 10/54 jobs done
+  [ORL_mtv] 15/54 jobs done
+  [ORL_mtv] 20/54 jobs done
+  [ORL_mtv] 25/54 jobs done
+  [ORL_mtv] 30/54 jobs done
+  [ORL_mtv] 35/54 jobs done
+  [ORL_mtv] 40/54 jobs done
+  [ORL_mtv] 45/54 jobs done
+  [ORL_mtv] 50/54 jobs done
+  [ORL_mtv] 54/54 jobs done
+
+[ORL_mtv] Table-2 style (mean over 9 rates of the per-rate grid best):
+   ACC       81.40
+   NMI       90.33
+   Purity    83.80
+   Fscore    74.31

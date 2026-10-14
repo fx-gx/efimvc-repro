@@ -1,0 +1,95 @@
+[WebKB] ablation: 432 jobs (0 cells already done)
+  5/432 jobs
+  10/432 jobs
+  15/432 jobs
+  20/432 jobs
+  25/432 jobs
+  30/432 jobs
+  35/432 jobs
+  40/432 jobs
+  45/432 jobs
+  50/432 jobs
+  55/432 jobs
+  60/432 jobs
+  65/432 jobs
+  70/432 jobs
+  75/432 jobs
+  80/432 jobs
+  85/432 jobs
+  90/432 jobs
+  95/432 jobs
+  100/432 jobs
+  105/432 jobs
+  110/432 jobs
+  115/432 jobs
+  120/432 jobs
+  125/432 jobs
+  130/432 jobs
+  135/432 jobs
+  140/432 jobs
+  145/432 jobs
+  150/432 jobs
+  155/432 jobs
+  160/432 jobs
+  165/432 jobs
+  170/432 jobs
+  175/432 jobs
+  180/432 jobs
+  185/432 jobs
+  190/432 jobs
+  195/432 jobs
+  200/432 jobs
+  205/432 jobs
+  210/432 jobs
+  215/432 jobs
+  220/432 jobs
+  225/432 jobs
+  230/432 jobs
+  235/432 jobs
+  240/432 jobs
+  245/432 jobs
+  250/432 jobs
+  255/432 jobs
+  260/432 jobs
+  265/432 jobs
+  270/432 jobs
+  275/432 jobs
+  280/432 jobs
+  285/432 jobs
+  290/432 jobs
+  295/432 jobs
+  300/432 jobs
+  305/432 jobs
+  310/432 jobs
+  315/432 jobs
+  320/432 jobs
+  325/432 jobs
+  330/432 jobs
+  335/432 jobs
+  340/432 jobs
+  345/432 jobs
+  350/432 jobs
+  355/432 jobs
+  360/432 jobs
+  365/432 jobs
+  370/432 jobs
+  375/432 jobs
+  380/432 jobs
+  385/432 jobs
+  390/432 jobs
+  395/432 jobs
+  400/432 jobs
+  405/432 jobs
+  410/432 jobs
+  415/432 jobs
+  420/432 jobs
+  425/432 jobs
+  430/432 jobs
+  432/432 jobs
+
+[WebKB] ablation (mean over rates of the per-rate grid best, %)
+variant          ACC       NMI    Purity    Fscore
+full           92.23     54.87     92.23     89.17
+lambda=0       87.36     42.99     87.77     82.77
+beta=0         92.26     55.01     92.26     89.22
+P=I            85.20     38.35     86.17     80.50
